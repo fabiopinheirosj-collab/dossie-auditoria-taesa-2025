@@ -1,0 +1,20 @@
+{
+  "natureza": "SINTÉTICA — gerada por codigo/gerar_base.py; não são registros reais da TAESA",
+  "linhas": 500000,
+  "colunas": 9,
+  "ids_duplicados": 0,
+  "celulas_nulas": 0,
+  "concessionarias_spe_distintas": 14,
+  "valor_nominal_total_brl": 15501665466.32,
+  "valor_presente_total_brl": 12582984987.38,
+  "registros_flag_inserida": 2464,
+  "registros_status_divergente": 2464,
+  "inconsistencia_flag_status": 0,
+  "amostra_n": 600,
+  "amostra_seed": 20261025,
+  "amostra_com_flag": 1,
+  "amostra_taxa_flag": 0.0016666666666666668,
+  "saldo_publicado_ativo_contrato_consolidado_2025_brl": 16886502000,
+  "diferenca_saldo_publicado_menos_base_brl": 4303517012.62,
+  "diferenca_percentual_saldo_publicado": 25.48
+}

@@ -1,0 +1,10 @@
+Variável,Tipo,Descrição / uso,Limitação / validação
+id_registro,texto,Identificador sintético do registro.,Não é número de contrato real.
+concessionaria_spe,texto,Rótulo de concessionária/SPE atribuído à linha sintética.,Não comprova relação real com a TAESA.
+conta_contabil,texto,Conta modelada: Ativo Financeiro de Contrato de Concessão.,A nomenclatura deve ser alinhada ao ativo contratual da DF; confirmar classificação contábil.
+data_vencimento,data ISO,Data sintética associada ao recebimento/registro.,Não há contrato ou cronograma real para confirmar.
+valor_nominal_brl,decimal R$,Valor nominal sintético.,Não derivado de razão contábil real.
+taxa_juros_a_a,decimal,Taxa anual sintética em formato decimal.,Não é taxa contratual ou taxa de desconto da TAESA.
+valor_presente_contabil_brl,decimal R$,Valor presente sintético fornecido.,Não deve ser tratado como valor contábil real.
+status_auditoria,texto,Rótulo sintético de status.,Não equivale a conclusão de auditoria real.
+flag_inconsistencia_inserida,booleano,Marca os erros sintéticos inseridos na base.,Usar apenas para comparar injeção de erros vs detecção.

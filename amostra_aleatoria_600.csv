@@ -1,0 +1,601 @@
+id_registro,concessionaria_spe,conta_contabil,data_vencimento,valor_nominal_brl,taxa_juros_a_a,valor_presente_contabil_brl,status_auditoria,flag_inconsistencia_inserida
+CTR-2025-140065,Novatrans,Ativo Financeiro de Contrato de Concessão,2028-01-30,21157.48,0.116,12782.09,Adimplente,False
+CTR-2025-109811,ATE I,Ativo Financeiro de Contrato de Concessão,2027-06-01,25901.41,0.0795,18264.59,Adimplente,False
+CTR-2025-221327,Mutum,Ativo Financeiro de Contrato de Concessão,2029-11-13,54553.57,0.1054,52113.96,Adimplente,False
+CTR-2025-488094,TSN,Ativo Financeiro de Contrato de Concessão,2035-09-26,11939.59,0.0705,10226.45,Adimplente,False
+CTR-2025-099928,Mutum,Ativo Financeiro de Contrato de Concessão,2027-03-14,58835.56,0.0669,45816.95,Adimplente,False
+CTR-2025-498303,Brasnorte,Ativo Financeiro de Contrato de Concessão,2035-12-17,27162.69,0.1009,18501.61,Adimplente,False
+CTR-2025-476199,ATE II,Ativo Financeiro de Contrato de Concessão,2035-06-22,35069.31,0.1039,25861.65,Adimplente,False
+CTR-2025-145452,ETSE,Ativo Financeiro de Contrato de Concessão,2028-03-14,40672.99,0.1116,38069.64,Adimplente,False
+CTR-2025-278404,Brasnorte,Ativo Financeiro de Contrato de Concessão,2031-02-15,23012.32,0.1135,17871.24,Adimplente,False
+CTR-2025-195396,TAESA - Matriz,Ativo Financeiro de Contrato de Concessão,2029-04-19,7314.18,0.0668,7180.87,Adimplente,False
+CTR-2025-160479,ATE III,Ativo Financeiro de Contrato de Concessão,2028-07-12,14677.07,0.0942,12838.51,Adimplente,False
+CTR-2025-084430,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2026-11-10,36646.49,0.0885,24156.82,Adimplente,False
+CTR-2025-318926,TAESA - Matriz,Ativo Financeiro de Contrato de Concessão,2032-01-06,41713.72,0.0701,30485.42,Adimplente,False
+CTR-2025-312016,SST,Ativo Financeiro de Contrato de Concessão,2031-11-12,73107.81,0.1113,47335.3,Adimplente,False
+CTR-2025-046362,San Rondon,Ativo Financeiro de Contrato de Concessão,2026-01-08,37377.97,0.0897,28337.46,Adimplente,False
+CTR-2025-444433,Mutum,Ativo Financeiro de Contrato de Concessão,2034-10-10,59519.42,0.093,48075.78,Adimplente,False
+CTR-2025-433014,Afluente T,Ativo Financeiro de Contrato de Concessão,2034-07-10,27659.02,0.0859,24859.96,Adimplente,False
+CTR-2025-021436,Brasnorte,Ativo Financeiro de Contrato de Concessão,2025-06-22,45221.57,0.0881,34815.29,Adimplente,False
+CTR-2025-344802,ATE I,Ativo Financeiro de Contrato de Concessão,2032-08-01,34519.42,0.0627,27455.95,Adimplente,False
+CTR-2025-335002,San Rondon,Ativo Financeiro de Contrato de Concessão,2032-05-14,32799.85,0.0916,23997.99,Adimplente,False
+CTR-2025-293108,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2031-06-13,58420.18,0.0799,42350.77,Adimplente,False
+CTR-2025-380235,ATE II,Ativo Financeiro de Contrato de Concessão,2033-05-13,24873.81,0.1034,20449.15,Adimplente,False
+CTR-2025-449970,SST,Ativo Financeiro de Contrato de Concessão,2034-11-24,85563.95,0.1128,78352.2,Adimplente,False
+CTR-2025-043694,TSN,Ativo Financeiro de Contrato de Concessão,2025-12-17,11730.02,0.0789,10830.39,Adimplente,False
+CTR-2025-479205,TSN,Ativo Financeiro de Contrato de Concessão,2035-07-16,15815.75,0.081,14997.32,Adimplente,False
+CTR-2025-364657,ATE I,Ativo Financeiro de Contrato de Concessão,2033-01-07,35629.02,0.0991,34693.73,Adimplente,False
+CTR-2025-450822,ATE II,Ativo Financeiro de Contrato de Concessão,2034-12-01,48299.03,0.116,34943.35,Adimplente,False
+CTR-2025-394621,SST,Ativo Financeiro de Contrato de Concessão,2033-09-05,45872.07,0.1137,35719.97,Adimplente,False
+CTR-2025-320011,Novatrans,Ativo Financeiro de Contrato de Concessão,2032-01-15,6276.66,0.0931,4929.7,Adimplente,False
+CTR-2025-359630,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2032-11-28,46728.11,0.0776,35224.77,Adimplente,False
+CTR-2025-087624,ATE II,Ativo Financeiro de Contrato de Concessão,2026-12-05,23875.76,0.0645,19199.84,Adimplente,False
+CTR-2025-087040,Brasnorte,Ativo Financeiro de Contrato de Concessão,2026-12-01,34163.96,0.0793,33899.4,Adimplente,False
+CTR-2025-447289,Mutum,Ativo Financeiro de Contrato de Concessão,2034-11-02,33221.84,0.0962,24251.0,Adimplente,False
+CTR-2025-434919,TSN,Ativo Financeiro de Contrato de Concessão,2034-07-26,36815.88,0.0831,31010.57,Adimplente,False
+CTR-2025-369242,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2033-02-13,91879.05,0.1058,57006.97,Adimplente,False
+CTR-2025-195393,Mutum,Ativo Financeiro de Contrato de Concessão,2029-04-19,13989.05,0.0814,12286.55,Adimplente,False
+CTR-2025-168533,Brasnorte,Ativo Financeiro de Contrato de Concessão,2028-09-15,4327.59,0.1038,4111.45,Adimplente,False
+CTR-2025-259845,Brasnorte,Ativo Financeiro de Contrato de Concessão,2030-09-19,15962.87,0.086,13016.71,Adimplente,False
+CTR-2025-431452,San Rondon,Ativo Financeiro de Contrato de Concessão,2034-06-28,32354.11,0.1021,23487.78,Adimplente,False
+CTR-2025-264997,ATE II,Ativo Financeiro de Contrato de Concessão,2030-10-30,22605.98,0.1121,20988.8,Adimplente,False
+CTR-2025-016910,ATE II,Ativo Financeiro de Contrato de Concessão,2025-05-16,61383.15,0.1077,50364.72,Adimplente,False
+CTR-2025-054774,SST,Ativo Financeiro de Contrato de Concessão,2026-03-16,23698.36,0.0888,19733.92,Adimplente,False
+CTR-2025-313644,Afluente T,Ativo Financeiro de Contrato de Concessão,2031-11-25,5846.22,0.0882,3931.32,Adimplente,False
+CTR-2025-366278,ATE III,Ativo Financeiro de Contrato de Concessão,2033-01-20,30371.22,0.0785,26645.66,Adimplente,False
+CTR-2025-114112,ATE III,Ativo Financeiro de Contrato de Concessão,2027-07-06,18471.2,0.1101,14335.19,Adimplente,False
+CTR-2025-269127,ATE I,Ativo Financeiro de Contrato de Concessão,2030-12-02,20793.24,0.084,15432.99,Adimplente,False
+CTR-2025-491306,TSN,Ativo Financeiro de Contrato de Concessão,2035-10-22,9695.2,0.0966,8222.45,Adimplente,False
+CTR-2025-400729,ATE II,Ativo Financeiro de Contrato de Concessão,2033-10-24,32927.58,0.0927,21243.81,Adimplente,False
+CTR-2025-403352,ATE I,Ativo Financeiro de Contrato de Concessão,2033-11-14,20760.4,0.1074,16759.94,Adimplente,False
+CTR-2025-356300,ATE I,Ativo Financeiro de Contrato de Concessão,2032-11-01,13296.27,0.1123,12935.27,Adimplente,False
+CTR-2025-180813,ATE II,Ativo Financeiro de Contrato de Concessão,2028-12-23,29212.7,0.0787,22681.22,Adimplente,False
+CTR-2025-367198,ATE I,Ativo Financeiro de Contrato de Concessão,2033-01-28,61815.25,0.1113,38752.36,Adimplente,False
+CTR-2025-306191,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2031-09-26,17651.96,0.1052,16637.46,Adimplente,False
+CTR-2025-397438,Novatrans,Ativo Financeiro de Contrato de Concessão,2033-09-28,21120.68,0.0672,15460.28,Adimplente,False
+CTR-2025-068184,Afluente T,Ativo Financeiro de Contrato de Concessão,2026-07-02,6201.07,0.0863,5627.41,Adimplente,False
+CTR-2025-165009,ATE III,Ativo Financeiro de Contrato de Concessão,2028-08-18,18977.59,0.113,14425.17,Adimplente,False
+CTR-2025-138970,ATE I,Ativo Financeiro de Contrato de Concessão,2028-01-22,32728.35,0.0874,30512.76,Adimplente,False
+CTR-2025-166428,ETSE,Ativo Financeiro de Contrato de Concessão,2028-08-29,8529.03,0.1164,7162.06,Adimplente,False
+CTR-2025-039061,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2025-11-10,21209.8,0.0892,19654.88,Adimplente,False
+CTR-2025-042108,Novatrans,Ativo Financeiro de Contrato de Concessão,2025-12-05,50115.01,0.0892,42178.3,Adimplente,False
+CTR-2025-027284,ETSE,Ativo Financeiro de Contrato de Concessão,2025-08-08,4571.98,0.1193,2852.4,Adimplente,False
+CTR-2025-214202,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2029-09-17,5308.7,0.1056,4513.61,Adimplente,False
+CTR-2025-361121,ATE I,Ativo Financeiro de Contrato de Concessão,2032-12-10,33692.17,0.0897,23840.4,Adimplente,False
+CTR-2025-132219,ATE III,Ativo Financeiro de Contrato de Concessão,2027-11-28,14905.93,0.0787,10416.8,Adimplente,False
+CTR-2025-369177,Afluente T,Ativo Financeiro de Contrato de Concessão,2033-02-13,21656.86,0.0904,17628.39,Adimplente,False
+CTR-2025-334130,Brasnorte,Ativo Financeiro de Contrato de Concessão,2032-05-07,25050.81,0.0662,22454.32,Adimplente,False
+CTR-2025-391664,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2033-08-12,21822.0,0.085,19840.44,Adimplente,False
+CTR-2025-358472,ATE I,Ativo Financeiro de Contrato de Concessão,2032-11-19,11904.67,0.0955,10766.36,Adimplente,False
+CTR-2025-246797,SST,Ativo Financeiro de Contrato de Concessão,2030-06-06,61526.56,0.0706,51772.26,Adimplente,False
+CTR-2025-315655,Brasnorte,Ativo Financeiro de Contrato de Concessão,2031-12-11,22071.18,0.1199,17780.56,Adimplente,False
+CTR-2025-023855,ATE I,Ativo Financeiro de Contrato de Concessão,2025-07-11,28273.11,0.1101,27085.56,Adimplente,False
+CTR-2025-342110,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2032-07-10,24932.24,0.0978,23459.38,Adimplente,False
+CTR-2025-334237,ATE III,Ativo Financeiro de Contrato de Concessão,2032-05-08,5100.3,0.1198,4829.13,Adimplente,False
+CTR-2025-349719,SST,Ativo Financeiro de Contrato de Concessão,2032-09-09,23513.1,0.1047,17867.53,Adimplente,False
+CTR-2025-425706,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2034-05-13,56629.62,0.0928,40479.67,Adimplente,False
+CTR-2025-418935,ATE III,Ativo Financeiro de Contrato de Concessão,2034-03-19,49112.14,0.1001,31476.28,Adimplente,False
+CTR-2025-497044,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2035-12-07,45381.51,0.1199,28713.64,Adimplente,False
+CTR-2025-190109,Brasnorte,Ativo Financeiro de Contrato de Concessão,2029-03-07,10542.25,0.0992,9167.42,Adimplente,False
+CTR-2025-008334,Brasnorte,Ativo Financeiro de Contrato de Concessão,2025-03-08,27193.97,0.0613,21337.9,Adimplente,False
+CTR-2025-029751,ATE II,Ativo Financeiro de Contrato de Concessão,2025-08-27,12570.12,0.1056,12181.26,Adimplente,False
+CTR-2025-334973,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2032-05-14,20982.78,0.0846,14893.88,Adimplente,False
+CTR-2025-295575,TAESA - Matriz,Ativo Financeiro de Contrato de Concessão,2031-07-03,14441.03,0.0712,12869.14,Adimplente,False
+CTR-2025-331091,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2032-04-13,8213.71,0.1049,7194.06,Adimplente,False
+CTR-2025-424713,SST,Ativo Financeiro de Contrato de Concessão,2034-05-05,79327.7,0.0986,54472.13,Adimplente,False
+CTR-2025-095998,SST,Ativo Financeiro de Contrato de Concessão,2027-02-11,14469.28,0.1077,9546.51,Adimplente,False
+CTR-2025-132609,ATE I,Ativo Financeiro de Contrato de Concessão,2027-12-02,37225.96,0.0894,25887.63,Adimplente,False
+CTR-2025-131710,Mutum,Ativo Financeiro de Contrato de Concessão,2027-11-24,49896.65,0.0648,47261.29,Adimplente,False
+CTR-2025-219725,ATE I,Ativo Financeiro de Contrato de Concessão,2029-10-31,17904.72,0.107,11483.92,Adimplente,False
+CTR-2025-227579,Afluente T,Ativo Financeiro de Contrato de Concessão,2030-01-02,44840.49,0.0873,30239.68,Adimplente,False
+CTR-2025-171754,Brasnorte,Ativo Financeiro de Contrato de Concessão,2028-10-11,39948.16,0.1047,26255.04,Adimplente,False
+CTR-2025-074053,Brasnorte,Ativo Financeiro de Contrato de Concessão,2026-08-18,27932.73,0.12,25665.01,Adimplente,False
+CTR-2025-010250,ETSE,Ativo Financeiro de Contrato de Concessão,2025-03-24,32894.49,0.099,31409.97,Adimplente,False
+CTR-2025-210338,Afluente T,Ativo Financeiro de Contrato de Concessão,2029-08-17,119415.32,0.1073,77762.06,Adimplente,False
+CTR-2025-072431,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2026-08-05,2447.15,0.1151,1868.46,Adimplente,False
+CTR-2025-313713,Novatrans,Ativo Financeiro de Contrato de Concessão,2031-11-25,50943.98,0.0605,44530.43,Adimplente,False
+CTR-2025-198337,Mutum,Ativo Financeiro de Contrato de Concessão,2029-05-13,34173.07,0.0631,28166.29,Adimplente,False
+CTR-2025-116731,Novatrans,Ativo Financeiro de Contrato de Concessão,2027-07-27,16302.45,0.0883,13460.49,Adimplente,False
+CTR-2025-292509,TSN,Ativo Financeiro de Contrato de Concessão,2031-06-08,42842.52,0.0677,35527.57,Adimplente,False
+CTR-2025-447960,Mutum,Ativo Financeiro de Contrato de Concessão,2034-11-08,12824.95,0.1126,8015.46,Adimplente,False
+CTR-2025-249073,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2030-06-24,23362.23,0.1008,17486.26,Adimplente,False
+CTR-2025-458540,Afluente T,Ativo Financeiro de Contrato de Concessão,2035-01-31,28348.81,0.0636,27355.27,Adimplente,False
+CTR-2025-337532,San Rondon,Ativo Financeiro de Contrato de Concessão,2032-06-04,8009.01,0.0996,6777.3,Adimplente,False
+CTR-2025-001315,SST,Ativo Financeiro de Contrato de Concessão,2025-01-11,24406.26,0.0794,20376.02,Adimplente,False
+CTR-2025-384354,Mutum,Ativo Financeiro de Contrato de Concessão,2033-06-15,29245.17,0.1098,22376.3,Adimplente,False
+CTR-2025-247426,ATE II,Ativo Financeiro de Contrato de Concessão,2030-06-11,26727.14,0.1109,23669.57,Adimplente,False
+CTR-2025-048567,SST,Ativo Financeiro de Contrato de Concessão,2026-01-26,19982.05,0.0625,17370.76,Adimplente,False
+CTR-2025-213556,ATE II,Ativo Financeiro de Contrato de Concessão,2029-09-12,22193.14,0.0703,17171.98,Adimplente,False
+CTR-2025-112940,SST,Ativo Financeiro de Contrato de Concessão,2027-06-27,8040.12,0.0969,5394.89,Adimplente,False
+CTR-2025-310203,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2031-10-28,27268.61,0.0756,21146.99,Adimplente,False
+CTR-2025-180364,ATE III,Ativo Financeiro de Contrato de Concessão,2028-12-19,43782.53,0.0616,35029.48,Adimplente,False
+CTR-2025-182767,ETSE,Ativo Financeiro de Contrato de Concessão,2029-01-07,20711.91,0.0844,14539.04,Adimplente,False
+CTR-2025-400244,TAESA - Matriz,Ativo Financeiro de Contrato de Concessão,2033-10-20,16416.26,0.062,13456.98,Adimplente,False
+CTR-2025-248544,SST,Ativo Financeiro de Contrato de Concessão,2030-06-20,17321.38,0.0935,12756.39,Adimplente,False
+CTR-2025-411793,Mutum,Ativo Financeiro de Contrato de Concessão,2034-01-21,22961.16,0.0776,19547.72,Adimplente,False
+CTR-2025-268221,San Rondon,Ativo Financeiro de Contrato de Concessão,2030-11-25,22067.09,0.0703,30803.53,Divergência de Cálculo / Requer Ajuste,True
+CTR-2025-433828,Afluente T,Ativo Financeiro de Contrato de Concessão,2034-07-17,4574.51,0.0998,3723.7,Adimplente,False
+CTR-2025-021609,ATE I,Ativo Financeiro de Contrato de Concessão,2025-06-23,31091.06,0.1058,25483.13,Adimplente,False
+CTR-2025-146163,TSN,Ativo Financeiro de Contrato de Concessão,2028-03-19,3842.91,0.0765,3062.67,Adimplente,False
+CTR-2025-070354,ATE III,Ativo Financeiro de Contrato de Concessão,2026-07-20,28961.18,0.0767,21896.97,Adimplente,False
+CTR-2025-449547,Mutum,Ativo Financeiro de Contrato de Concessão,2034-11-20,30724.73,0.0672,24323.26,Adimplente,False
+CTR-2025-007840,TAESA - Matriz,Ativo Financeiro de Contrato de Concessão,2025-03-04,15767.11,0.0611,11877.39,Adimplente,False
+CTR-2025-101313,Mutum,Ativo Financeiro de Contrato de Concessão,2027-03-25,7059.48,0.0757,6358.19,Adimplente,False
+CTR-2025-408423,ETSE,Ativo Financeiro de Contrato de Concessão,2033-12-25,28388.59,0.0854,19869.48,Adimplente,False
+CTR-2025-217909,Mutum,Ativo Financeiro de Contrato de Concessão,2029-10-17,68850.06,0.0699,52917.8,Adimplente,False
+CTR-2025-441090,Mutum,Ativo Financeiro de Contrato de Concessão,2034-09-13,65714.73,0.0975,60230.95,Adimplente,False
+CTR-2025-410073,ATE I,Ativo Financeiro de Contrato de Concessão,2034-01-07,8214.98,0.0684,6029.89,Adimplente,False
+CTR-2025-224673,Brasnorte,Ativo Financeiro de Contrato de Concessão,2029-12-10,37378.99,0.1058,23961.11,Adimplente,False
+CTR-2025-426346,Mutum,Ativo Financeiro de Contrato de Concessão,2034-05-18,17082.6,0.0936,11880.0,Adimplente,False
+CTR-2025-421525,Novatrans,Ativo Financeiro de Contrato de Concessão,2034-04-09,57037.74,0.0919,48378.38,Adimplente,False
+CTR-2025-385855,San Rondon,Ativo Financeiro de Contrato de Concessão,2033-06-27,25126.46,0.1032,21861.36,Adimplente,False
+CTR-2025-274972,Afluente T,Ativo Financeiro de Contrato de Concessão,2031-01-18,84914.27,0.0639,72429.29,Adimplente,False
+CTR-2025-346442,ATE I,Ativo Financeiro de Contrato de Concessão,2032-08-14,71978.35,0.1187,64764.07,Adimplente,False
+CTR-2025-462451,San Rondon,Ativo Financeiro de Contrato de Concessão,2035-03-04,12463.84,0.1048,8022.92,Adimplente,False
+CTR-2025-493803,SST,Ativo Financeiro de Contrato de Concessão,2035-11-11,37364.29,0.0713,34497.91,Adimplente,False
+CTR-2025-193109,San Rondon,Ativo Financeiro de Contrato de Concessão,2029-04-01,49831.7,0.1005,42869.84,Adimplente,False
+CTR-2025-104529,Novatrans,Ativo Financeiro de Contrato de Concessão,2027-04-20,29166.31,0.1108,19600.96,Adimplente,False
+CTR-2025-386614,Mutum,Ativo Financeiro de Contrato de Concessão,2033-07-03,30086.52,0.1035,19850.31,Adimplente,False
+CTR-2025-202572,SST,Ativo Financeiro de Contrato de Concessão,2029-06-16,14920.05,0.0822,13927.64,Adimplente,False
+CTR-2025-298099,San Rondon,Ativo Financeiro de Contrato de Concessão,2031-07-23,26177.08,0.0802,18962.25,Adimplente,False
+CTR-2025-069146,SST,Ativo Financeiro de Contrato de Concessão,2026-07-10,10376.08,0.0609,9763.96,Adimplente,False
+CTR-2025-495062,Brasnorte,Ativo Financeiro de Contrato de Concessão,2035-11-21,64378.24,0.0777,50285.2,Adimplente,False
+CTR-2025-264510,ATE III,Ativo Financeiro de Contrato de Concessão,2030-10-26,25511.73,0.1154,16278.53,Adimplente,False
+CTR-2025-371524,Brasnorte,Ativo Financeiro de Contrato de Concessão,2033-03-04,7286.37,0.0719,6566.04,Adimplente,False
+CTR-2025-194517,Afluente T,Ativo Financeiro de Contrato de Concessão,2029-04-12,41015.99,0.0982,35283.21,Adimplente,False
+CTR-2025-005473,Novatrans,Ativo Financeiro de Contrato de Concessão,2025-02-13,14021.27,0.1171,10204.2,Adimplente,False
+CTR-2025-223483,Brasnorte,Ativo Financeiro de Contrato de Concessão,2029-12-01,12134.95,0.0795,8290.13,Adimplente,False
+CTR-2025-154937,ATE II,Ativo Financeiro de Contrato de Concessão,2028-05-29,6182.16,0.1062,3860.57,Adimplente,False
+CTR-2025-113649,TAESA - Matriz,Ativo Financeiro de Contrato de Concessão,2027-07-02,27857.1,0.0663,20722.31,Adimplente,False
+CTR-2025-481296,San Rondon,Ativo Financeiro de Contrato de Concessão,2035-08-02,12303.07,0.0628,10840.67,Adimplente,False
+CTR-2025-283468,SST,Ativo Financeiro de Contrato de Concessão,2031-03-27,10013.92,0.1145,8094.83,Adimplente,False
+CTR-2025-277209,ETSE,Ativo Financeiro de Contrato de Concessão,2031-02-05,17893.2,0.0744,13560.13,Adimplente,False
+CTR-2025-154247,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2028-05-23,11400.66,0.0993,10599.65,Adimplente,False
+CTR-2025-428384,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2034-06-03,26891.02,0.0991,21327.12,Adimplente,False
+CTR-2025-080410,ATE I,Ativo Financeiro de Contrato de Concessão,2026-10-08,27360.42,0.1068,24169.39,Adimplente,False
+CTR-2025-359467,ATE III,Ativo Financeiro de Contrato de Concessão,2032-11-27,7950.29,0.0685,7576.36,Adimplente,False
+CTR-2025-276937,Brasnorte,Ativo Financeiro de Contrato de Concessão,2031-02-03,33564.44,0.1132,30035.59,Adimplente,False
+CTR-2025-019384,ATE I,Ativo Financeiro de Contrato de Concessão,2025-06-05,10989.87,0.0654,8043.29,Adimplente,False
+CTR-2025-383782,ETSE,Ativo Financeiro de Contrato de Concessão,2033-06-10,27185.81,0.0783,24095.93,Adimplente,False
+CTR-2025-372995,ETSE,Ativo Financeiro de Contrato de Concessão,2033-03-15,13091.04,0.1104,12212.32,Adimplente,False
+CTR-2025-464962,TSN,Ativo Financeiro de Contrato de Concessão,2035-03-24,41962.26,0.1024,35952.57,Adimplente,False
+CTR-2025-102084,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2027-03-31,53988.86,0.0946,35458.21,Adimplente,False
+CTR-2025-022607,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2025-07-01,11344.87,0.1158,10546.1,Adimplente,False
+CTR-2025-233758,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2030-02-21,69513.22,0.0914,63344.59,Adimplente,False
+CTR-2025-092446,Brasnorte,Ativo Financeiro de Contrato de Concessão,2027-01-13,18339.0,0.0611,17812.87,Adimplente,False
+CTR-2025-200021,ETSE,Ativo Financeiro de Contrato de Concessão,2029-05-26,17444.06,0.1139,13022.66,Adimplente,False
+CTR-2025-323948,Mutum,Ativo Financeiro de Contrato de Concessão,2032-02-15,9701.7,0.0647,7276.5,Adimplente,False
+CTR-2025-293399,Mutum,Ativo Financeiro de Contrato de Concessão,2031-06-15,79804.48,0.0994,69296.51,Adimplente,False
+CTR-2025-111385,TAESA - Matriz,Ativo Financeiro de Contrato de Concessão,2027-06-14,14870.49,0.0652,11538.99,Adimplente,False
+CTR-2025-262872,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2030-10-13,115191.42,0.0909,105251.79,Adimplente,False
+CTR-2025-143226,Mutum,Ativo Financeiro de Contrato de Concessão,2028-02-25,21959.39,0.0902,19421.37,Adimplente,False
+CTR-2025-088454,TAESA - Matriz,Ativo Financeiro de Contrato de Concessão,2026-12-12,65638.49,0.0756,57714.31,Adimplente,False
+CTR-2025-140032,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2028-01-30,12771.39,0.097,8372.8,Adimplente,False
+CTR-2025-280909,Afluente T,Ativo Financeiro de Contrato de Concessão,2031-03-07,66522.27,0.0829,60419.24,Adimplente,False
+CTR-2025-160556,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2028-07-13,17642.56,0.0786,12404.49,Adimplente,False
+CTR-2025-452312,ETSE,Ativo Financeiro de Contrato de Concessão,2034-12-12,24689.83,0.0771,18457.75,Adimplente,False
+CTR-2025-411222,TAESA - Matriz,Ativo Financeiro de Contrato de Concessão,2034-01-16,28202.18,0.0609,24979.15,Adimplente,False
+CTR-2025-210072,Mutum,Ativo Financeiro de Contrato de Concessão,2029-08-15,9573.3,0.0864,9167.52,Adimplente,False
+CTR-2025-140080,ATE I,Ativo Financeiro de Contrato de Concessão,2028-01-31,3733.52,0.0997,2703.02,Adimplente,False
+CTR-2025-009349,TSN,Ativo Financeiro de Contrato de Concessão,2025-03-17,6831.38,0.066,6397.02,Adimplente,False
+CTR-2025-456926,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2035-01-19,41868.9,0.0838,36274.83,Adimplente,False
+CTR-2025-054200,San Rondon,Ativo Financeiro de Contrato de Concessão,2026-03-12,23620.67,0.0728,19815.44,Adimplente,False
+CTR-2025-337915,TSN,Ativo Financeiro de Contrato de Concessão,2032-06-07,44773.72,0.0673,42844.14,Adimplente,False
+CTR-2025-091878,TSN,Ativo Financeiro de Contrato de Concessão,2027-01-08,7037.3,0.0824,6364.65,Adimplente,False
+CTR-2025-202647,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2029-06-16,14604.97,0.0669,11357.13,Adimplente,False
+CTR-2025-237782,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2030-03-25,16047.08,0.0793,14635.77,Adimplente,False
+CTR-2025-241967,Brasnorte,Ativo Financeiro de Contrato de Concessão,2030-04-28,9489.01,0.0868,7656.18,Adimplente,False
+CTR-2025-419405,TSN,Ativo Financeiro de Contrato de Concessão,2034-03-23,12623.67,0.0636,9960.68,Adimplente,False
+CTR-2025-251836,Novatrans,Ativo Financeiro de Contrato de Concessão,2030-07-16,61628.0,0.0666,45255.45,Adimplente,False
+CTR-2025-270907,ATE III,Ativo Financeiro de Contrato de Concessão,2030-12-16,27067.35,0.0805,20023.27,Adimplente,False
+CTR-2025-351638,Afluente T,Ativo Financeiro de Contrato de Concessão,2032-09-25,53037.54,0.0736,46020.88,Adimplente,False
+CTR-2025-173598,ATE I,Ativo Financeiro de Contrato de Concessão,2028-10-26,21772.29,0.085,18520.25,Adimplente,False
+CTR-2025-251257,San Rondon,Ativo Financeiro de Contrato de Concessão,2030-07-12,72094.12,0.0706,60247.32,Adimplente,False
+CTR-2025-259820,San Rondon,Ativo Financeiro de Contrato de Concessão,2030-09-18,29579.06,0.0973,26178.0,Adimplente,False
+CTR-2025-190145,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2029-03-08,28126.51,0.0878,20427.78,Adimplente,False
+CTR-2025-264535,ETSE,Ativo Financeiro de Contrato de Concessão,2030-10-26,20981.38,0.0881,15836.58,Adimplente,False
+CTR-2025-206298,ATE II,Ativo Financeiro de Contrato de Concessão,2029-07-15,7582.56,0.0603,6933.85,Adimplente,False
+CTR-2025-210438,ETSE,Ativo Financeiro de Contrato de Concessão,2029-08-18,40216.44,0.0642,34206.07,Adimplente,False
+CTR-2025-220036,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2029-11-03,74022.1,0.0733,63822.48,Adimplente,False
+CTR-2025-378499,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2033-04-29,39321.66,0.0927,32539.85,Adimplente,False
+CTR-2025-072003,ATE II,Ativo Financeiro de Contrato de Concessão,2026-08-02,44708.74,0.0737,38869.96,Adimplente,False
+CTR-2025-136804,TSN,Ativo Financeiro de Contrato de Concessão,2028-01-04,38171.05,0.1037,29501.02,Adimplente,False
+CTR-2025-307458,SST,Ativo Financeiro de Contrato de Concessão,2031-10-06,7321.31,0.1132,5001.52,Adimplente,False
+CTR-2025-228262,San Rondon,Ativo Financeiro de Contrato de Concessão,2030-01-08,13488.12,0.0675,12224.99,Adimplente,False
+CTR-2025-021078,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2025-06-19,20232.48,0.098,14457.97,Adimplente,False
+CTR-2025-481928,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2035-08-07,55179.81,0.0639,46921.34,Adimplente,False
+CTR-2025-271954,TSN,Ativo Financeiro de Contrato de Concessão,2030-12-25,39709.53,0.0949,36435.19,Adimplente,False
+CTR-2025-234010,TSN,Ativo Financeiro de Contrato de Concessão,2030-02-23,22456.69,0.0981,16045.05,Adimplente,False
+CTR-2025-037996,ATE III,Ativo Financeiro de Contrato de Concessão,2025-11-02,8747.36,0.0779,6916.53,Adimplente,False
+CTR-2025-408089,SST,Ativo Financeiro de Contrato de Concessão,2033-12-22,7016.12,0.0797,5961.61,Adimplente,False
+CTR-2025-278218,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2031-02-13,14074.63,0.1163,12751.92,Adimplente,False
+CTR-2025-496425,Novatrans,Ativo Financeiro de Contrato de Concessão,2035-12-02,18299.02,0.0913,13546.3,Adimplente,False
+CTR-2025-441345,Afluente T,Ativo Financeiro de Contrato de Concessão,2034-09-15,12708.09,0.0864,9782.39,Adimplente,False
+CTR-2025-151977,ATE I,Ativo Financeiro de Contrato de Concessão,2028-05-05,10755.19,0.0921,7022.8,Adimplente,False
+CTR-2025-499618,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2035-12-27,48214.94,0.1116,30050.5,Adimplente,False
+CTR-2025-081574,ETSE,Ativo Financeiro de Contrato de Concessão,2026-10-18,108053.23,0.08,105695.22,Adimplente,False
+CTR-2025-053109,Brasnorte,Ativo Financeiro de Contrato de Concessão,2026-03-03,20739.51,0.1098,13642.33,Adimplente,False
+CTR-2025-431718,ATE I,Ativo Financeiro de Contrato de Concessão,2034-06-30,11445.12,0.0892,7868.29,Adimplente,False
+CTR-2025-323079,TAESA - Matriz,Ativo Financeiro de Contrato de Concessão,2032-02-08,26306.46,0.1078,20660.77,Adimplente,False
+CTR-2025-007402,TSN,Ativo Financeiro de Contrato de Concessão,2025-03-01,39428.95,0.0888,34982.8,Adimplente,False
+CTR-2025-294368,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2031-06-23,3753.12,0.1109,2576.66,Adimplente,False
+CTR-2025-443758,ATE II,Ativo Financeiro de Contrato de Concessão,2034-10-05,6181.03,0.0876,5135.78,Adimplente,False
+CTR-2025-413175,ETSE,Ativo Financeiro de Contrato de Concessão,2034-02-01,19505.8,0.0963,13290.06,Adimplente,False
+CTR-2025-172170,SST,Ativo Financeiro de Contrato de Concessão,2028-10-14,21184.92,0.0925,19797.63,Adimplente,False
+CTR-2025-327458,ETSE,Ativo Financeiro de Contrato de Concessão,2032-03-15,28021.87,0.118,25681.74,Adimplente,False
+CTR-2025-032730,Brasnorte,Ativo Financeiro de Contrato de Concessão,2025-09-20,52765.41,0.0617,40920.06,Adimplente,False
+CTR-2025-053214,ATE II,Ativo Financeiro de Contrato de Concessão,2026-03-04,18473.85,0.1052,13258.81,Adimplente,False
+CTR-2025-029903,ATE II,Ativo Financeiro de Contrato de Concessão,2025-08-29,14260.56,0.1129,13446.78,Adimplente,False
+CTR-2025-462468,ETSE,Ativo Financeiro de Contrato de Concessão,2035-03-04,16067.18,0.077,15269.42,Adimplente,False
+CTR-2025-240926,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2030-04-20,16754.4,0.1079,10626.24,Adimplente,False
+CTR-2025-290721,San Rondon,Ativo Financeiro de Contrato de Concessão,2031-05-25,24799.4,0.0938,16788.06,Adimplente,False
+CTR-2025-362278,TSN,Ativo Financeiro de Contrato de Concessão,2032-12-19,15804.05,0.1141,9304.83,Adimplente,False
+CTR-2025-222470,San Rondon,Ativo Financeiro de Contrato de Concessão,2029-11-22,2677.05,0.1015,1799.34,Adimplente,False
+CTR-2025-195285,TSN,Ativo Financeiro de Contrato de Concessão,2029-04-18,51503.99,0.1042,46907.35,Adimplente,False
+CTR-2025-306706,San Rondon,Ativo Financeiro de Contrato de Concessão,2031-09-30,12055.34,0.0754,10920.37,Adimplente,False
+CTR-2025-336718,TSN,Ativo Financeiro de Contrato de Concessão,2032-05-28,15442.92,0.1083,14350.67,Adimplente,False
+CTR-2025-406976,SST,Ativo Financeiro de Contrato de Concessão,2033-12-13,15106.64,0.1053,13086.3,Adimplente,False
+CTR-2025-071615,Afluente T,Ativo Financeiro de Contrato de Concessão,2026-07-30,33044.11,0.0852,27753.55,Adimplente,False
+CTR-2025-312127,SST,Ativo Financeiro de Contrato de Concessão,2031-11-13,11239.5,0.1039,6943.57,Adimplente,False
+CTR-2025-153125,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2028-05-14,12449.48,0.0993,11999.37,Adimplente,False
+CTR-2025-263178,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2030-10-15,3492.81,0.0638,2899.71,Adimplente,False
+CTR-2025-067467,Mutum,Ativo Financeiro de Contrato de Concessão,2026-06-26,87522.1,0.1108,67874.47,Adimplente,False
+CTR-2025-257066,ETSE,Ativo Financeiro de Contrato de Concessão,2030-08-27,7915.46,0.0651,6584.63,Adimplente,False
+CTR-2025-140627,Afluente T,Ativo Financeiro de Contrato de Concessão,2028-02-04,18935.04,0.0658,18152.01,Adimplente,False
+CTR-2025-477313,Mutum,Ativo Financeiro de Contrato de Concessão,2035-07-01,28279.08,0.1065,17892.63,Adimplente,False
+CTR-2025-262842,ATE II,Ativo Financeiro de Contrato de Concessão,2030-10-13,34974.45,0.0669,28087.65,Adimplente,False
+CTR-2025-157366,Novatrans,Ativo Financeiro de Contrato de Concessão,2028-06-17,10892.11,0.1044,8797.45,Adimplente,False
+CTR-2025-349044,ATE I,Ativo Financeiro de Contrato de Concessão,2032-09-04,26235.6,0.0635,24904.58,Adimplente,False
+CTR-2025-081185,Afluente T,Ativo Financeiro de Contrato de Concessão,2026-10-15,16075.22,0.1016,10281.3,Adimplente,False
+CTR-2025-385157,Brasnorte,Ativo Financeiro de Contrato de Concessão,2033-06-21,84905.88,0.1041,52067.21,Adimplente,False
+CTR-2025-115589,ATE II,Ativo Financeiro de Contrato de Concessão,2027-07-18,13794.81,0.087,12251.09,Adimplente,False
+CTR-2025-283286,SST,Ativo Financeiro de Contrato de Concessão,2031-03-26,8687.34,0.0813,6301.19,Adimplente,False
+CTR-2025-087716,ATE III,Ativo Financeiro de Contrato de Concessão,2026-12-06,2913.69,0.0838,2118.81,Adimplente,False
+CTR-2025-007094,ETSE,Ativo Financeiro de Contrato de Concessão,2025-02-26,79248.93,0.0768,73778.64,Adimplente,False
+CTR-2025-311363,ETSE,Ativo Financeiro de Contrato de Concessão,2031-11-06,14961.33,0.0907,14546.01,Adimplente,False
+CTR-2025-299894,Novatrans,Ativo Financeiro de Contrato de Concessão,2031-08-06,12508.33,0.0862,11006.97,Adimplente,False
+CTR-2025-109066,Brasnorte,Ativo Financeiro de Contrato de Concessão,2027-05-27,80359.23,0.0656,68571.22,Adimplente,False
+CTR-2025-143459,SST,Ativo Financeiro de Contrato de Concessão,2028-02-27,25018.79,0.0615,22502.37,Adimplente,False
+CTR-2025-150468,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2028-04-23,18879.76,0.1036,15498.34,Adimplente,False
+CTR-2025-292003,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2031-06-04,5199.4,0.0871,3813.09,Adimplente,False
+CTR-2025-264563,Mutum,Ativo Financeiro de Contrato de Concessão,2030-10-26,26542.88,0.1024,18764.76,Adimplente,False
+CTR-2025-357844,ATE III,Ativo Financeiro de Contrato de Concessão,2032-11-14,15094.43,0.0889,13800.21,Adimplente,False
+CTR-2025-233609,TAESA - Matriz,Ativo Financeiro de Contrato de Concessão,2030-02-20,6165.85,0.068,5261.51,Adimplente,False
+CTR-2025-142389,Novatrans,Ativo Financeiro de Contrato de Concessão,2028-02-18,28012.21,0.0837,21732.15,Adimplente,False
+CTR-2025-128536,ETSE,Ativo Financeiro de Contrato de Concessão,2027-10-30,56214.52,0.1089,52752.1,Adimplente,False
+CTR-2025-265136,ATE I,Ativo Financeiro de Contrato de Concessão,2030-10-31,15378.05,0.0758,11559.84,Adimplente,False
+CTR-2025-218410,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2029-10-21,29592.43,0.0682,25449.59,Adimplente,False
+CTR-2025-411878,Novatrans,Ativo Financeiro de Contrato de Concessão,2034-01-22,27676.65,0.0968,23029.63,Adimplente,False
+CTR-2025-360038,ATE I,Ativo Financeiro de Contrato de Concessão,2032-12-01,8335.56,0.0618,6763.76,Adimplente,False
+CTR-2025-472451,ATE III,Ativo Financeiro de Contrato de Concessão,2035-05-23,52689.93,0.0954,36794.48,Adimplente,False
+CTR-2025-484865,Afluente T,Ativo Financeiro de Contrato de Concessão,2035-08-31,47607.01,0.0728,44167.77,Adimplente,False
+CTR-2025-487086,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2035-09-18,91750.72,0.0642,74037.6,Adimplente,False
+CTR-2025-191091,ETSE,Ativo Financeiro de Contrato de Concessão,2029-03-15,18905.68,0.0978,17949.52,Adimplente,False
+CTR-2025-356633,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2032-11-04,48007.35,0.0744,41468.8,Adimplente,False
+CTR-2025-431044,Mutum,Ativo Financeiro de Contrato de Concessão,2034-06-25,28517.25,0.1037,17765.49,Adimplente,False
+CTR-2025-047576,SST,Ativo Financeiro de Contrato de Concessão,2026-01-18,29015.78,0.0972,23480.46,Adimplente,False
+CTR-2025-259729,San Rondon,Ativo Financeiro de Contrato de Concessão,2030-09-18,36721.78,0.0624,27348.99,Adimplente,False
+CTR-2025-053539,ATE III,Ativo Financeiro de Contrato de Concessão,2026-03-07,7867.19,0.1186,4820.85,Adimplente,False
+CTR-2025-380067,ATE II,Ativo Financeiro de Contrato de Concessão,2033-05-11,89597.36,0.1048,71906.04,Adimplente,False
+CTR-2025-230291,ATE I,Ativo Financeiro de Contrato de Concessão,2030-01-24,22854.85,0.1164,17569.14,Adimplente,False
+CTR-2025-028887,Novatrans,Ativo Financeiro de Contrato de Concessão,2025-08-21,5061.26,0.0686,4741.13,Adimplente,False
+CTR-2025-126721,ETSE,Ativo Financeiro de Contrato de Concessão,2027-10-15,15859.24,0.0652,14293.67,Adimplente,False
+CTR-2025-451227,Mutum,Ativo Financeiro de Contrato de Concessão,2034-12-04,22683.33,0.1145,13916.16,Adimplente,False
+CTR-2025-025996,ATE III,Ativo Financeiro de Contrato de Concessão,2025-07-28,47807.14,0.1142,37388.7,Adimplente,False
+CTR-2025-074789,Mutum,Ativo Financeiro de Contrato de Concessão,2026-08-24,10461.6,0.0774,8755.68,Adimplente,False
+CTR-2025-157401,TSN,Ativo Financeiro de Contrato de Concessão,2028-06-18,8105.71,0.1089,6704.21,Adimplente,False
+CTR-2025-369916,ATE I,Ativo Financeiro de Contrato de Concessão,2033-02-19,58975.7,0.11,42192.11,Adimplente,False
+CTR-2025-332818,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2032-04-27,10997.37,0.0648,8765.33,Adimplente,False
+CTR-2025-135464,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2027-12-25,52578.63,0.0891,34547.02,Adimplente,False
+CTR-2025-169583,TAESA - Matriz,Ativo Financeiro de Contrato de Concessão,2028-09-24,73237.37,0.1195,60998.69,Adimplente,False
+CTR-2025-364647,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2033-01-07,16136.83,0.117,11916.58,Adimplente,False
+CTR-2025-353265,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2032-10-08,14157.95,0.0847,10618.06,Adimplente,False
+CTR-2025-378188,Afluente T,Ativo Financeiro de Contrato de Concessão,2033-04-26,32138.34,0.0654,28139.91,Adimplente,False
+CTR-2025-263956,TAESA - Matriz,Ativo Financeiro de Contrato de Concessão,2030-10-22,62641.22,0.0947,48935.03,Adimplente,False
+CTR-2025-194758,Brasnorte,Ativo Financeiro de Contrato de Concessão,2029-04-14,6887.76,0.0922,4503.1,Adimplente,False
+CTR-2025-158439,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2028-06-26,48409.88,0.0755,35699.71,Adimplente,False
+CTR-2025-388029,ATE III,Ativo Financeiro de Contrato de Concessão,2033-07-14,26780.67,0.0612,24486.8,Adimplente,False
+CTR-2025-108815,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2027-05-24,33136.06,0.0822,26313.73,Adimplente,False
+CTR-2025-009435,Mutum,Ativo Financeiro de Contrato de Concessão,2025-03-17,11601.24,0.0649,10136.09,Adimplente,False
+CTR-2025-062618,TSN,Ativo Financeiro de Contrato de Concessão,2026-05-18,28170.35,0.1155,24709.68,Adimplente,False
+CTR-2025-068204,SST,Ativo Financeiro de Contrato de Concessão,2026-07-02,39922.2,0.0612,29995.38,Adimplente,False
+CTR-2025-298131,Afluente T,Ativo Financeiro de Contrato de Concessão,2031-07-23,22383.95,0.0842,20405.75,Adimplente,False
+CTR-2025-197878,Mutum,Ativo Financeiro de Contrato de Concessão,2029-05-09,31476.06,0.1165,26526.67,Adimplente,False
+CTR-2025-371576,ETSE,Ativo Financeiro de Contrato de Concessão,2033-03-04,32042.79,0.1046,28364.83,Adimplente,False
+CTR-2025-174739,Afluente T,Ativo Financeiro de Contrato de Concessão,2028-11-04,75100.89,0.1168,51775.45,Adimplente,False
+CTR-2025-401336,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2033-10-29,53275.6,0.1067,33901.97,Adimplente,False
+CTR-2025-226920,SST,Ativo Financeiro de Contrato de Concessão,2029-12-28,33183.11,0.062,29838.31,Adimplente,False
+CTR-2025-197943,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2029-05-09,9767.87,0.0742,8327.25,Adimplente,False
+CTR-2025-013786,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2025-04-21,25395.62,0.0746,20436.16,Adimplente,False
+CTR-2025-285091,ATE I,Ativo Financeiro de Contrato de Concessão,2031-04-09,13502.61,0.0821,9737.28,Adimplente,False
+CTR-2025-203281,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2029-06-21,33143.42,0.0926,31593.79,Adimplente,False
+CTR-2025-088338,Mutum,Ativo Financeiro de Contrato de Concessão,2026-12-11,30013.69,0.1109,24249.21,Adimplente,False
+CTR-2025-430656,San Rondon,Ativo Financeiro de Contrato de Concessão,2034-06-22,58458.63,0.1154,56275.73,Adimplente,False
+CTR-2025-299833,TSN,Ativo Financeiro de Contrato de Concessão,2031-08-06,9634.9,0.0673,8938.19,Adimplente,False
+CTR-2025-041997,Brasnorte,Ativo Financeiro de Contrato de Concessão,2025-12-04,43251.79,0.0947,33303.36,Adimplente,False
+CTR-2025-013669,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2025-04-20,44914.27,0.0762,42098.9,Adimplente,False
+CTR-2025-255637,TAESA - Matriz,Ativo Financeiro de Contrato de Concessão,2030-08-16,20492.44,0.0633,16074.5,Adimplente,False
+CTR-2025-239158,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2030-04-05,23188.85,0.0996,17774.29,Adimplente,False
+CTR-2025-095959,Afluente T,Ativo Financeiro de Contrato de Concessão,2027-02-10,54363.7,0.0944,42170.41,Adimplente,False
+CTR-2025-144196,SST,Ativo Financeiro de Contrato de Concessão,2028-03-04,33283.71,0.0759,29585.19,Adimplente,False
+CTR-2025-440651,ATE III,Ativo Financeiro de Contrato de Concessão,2034-09-10,6657.78,0.0986,5125.72,Adimplente,False
+CTR-2025-237328,Afluente T,Ativo Financeiro de Contrato de Concessão,2030-03-22,36884.31,0.1139,23763.01,Adimplente,False
+CTR-2025-123468,ATE III,Ativo Financeiro de Contrato de Concessão,2027-09-19,25499.64,0.1156,25182.9,Adimplente,False
+CTR-2025-238524,ETSE,Ativo Financeiro de Contrato de Concessão,2030-03-31,33882.11,0.1176,29165.13,Adimplente,False
+CTR-2025-359828,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2032-11-30,37195.85,0.0621,36959.43,Adimplente,False
+CTR-2025-199575,Brasnorte,Ativo Financeiro de Contrato de Concessão,2029-05-22,30967.67,0.0698,28203.42,Adimplente,False
+CTR-2025-062037,Mutum,Ativo Financeiro de Contrato de Concessão,2026-05-14,40759.52,0.1095,34630.27,Adimplente,False
+CTR-2025-011299,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2025-04-01,7213.1,0.0882,6615.68,Adimplente,False
+CTR-2025-187008,ATE I,Ativo Financeiro de Contrato de Concessão,2029-02-11,17682.08,0.0714,12703.92,Adimplente,False
+CTR-2025-405922,SST,Ativo Financeiro de Contrato de Concessão,2033-12-05,33391.61,0.0813,32211.29,Adimplente,False
+CTR-2025-157702,SST,Ativo Financeiro de Contrato de Concessão,2028-06-20,25875.55,0.1128,22327.87,Adimplente,False
+CTR-2025-101535,ATE II,Ativo Financeiro de Contrato de Concessão,2027-03-27,51570.28,0.0677,41879.86,Adimplente,False
+CTR-2025-389184,SST,Ativo Financeiro de Contrato de Concessão,2033-07-23,48380.52,0.0872,35608.36,Adimplente,False
+CTR-2025-136175,San Rondon,Ativo Financeiro de Contrato de Concessão,2027-12-30,57068.21,0.1065,52339.94,Adimplente,False
+CTR-2025-327456,SST,Ativo Financeiro de Contrato de Concessão,2032-03-15,20909.48,0.1034,18188.23,Adimplente,False
+CTR-2025-170201,TSN,Ativo Financeiro de Contrato de Concessão,2028-09-29,29686.36,0.0967,25423.83,Adimplente,False
+CTR-2025-156079,Mutum,Ativo Financeiro de Contrato de Concessão,2028-06-07,15649.09,0.0845,12788.08,Adimplente,False
+CTR-2025-278893,Brasnorte,Ativo Financeiro de Contrato de Concessão,2031-02-19,59149.91,0.0788,48416.91,Adimplente,False
+CTR-2025-447723,ATE I,Ativo Financeiro de Contrato de Concessão,2034-11-06,62479.22,0.0667,51965.21,Adimplente,False
+CTR-2025-420598,Afluente T,Ativo Financeiro de Contrato de Concessão,2034-04-02,30863.14,0.0624,29449.38,Adimplente,False
+CTR-2025-195549,ATE III,Ativo Financeiro de Contrato de Concessão,2029-04-20,19419.76,0.0899,14472.7,Adimplente,False
+CTR-2025-077102,ATE II,Ativo Financeiro de Contrato de Concessão,2026-09-12,23779.97,0.1021,17251.3,Adimplente,False
+CTR-2025-327966,Afluente T,Ativo Financeiro de Contrato de Concessão,2032-03-19,8693.62,0.1001,8014.11,Adimplente,False
+CTR-2025-380685,Mutum,Ativo Financeiro de Contrato de Concessão,2033-05-16,22986.97,0.0808,21709.29,Adimplente,False
+CTR-2025-071744,SST,Ativo Financeiro de Contrato de Concessão,2026-07-31,14624.22,0.0781,10421.73,Adimplente,False
+CTR-2025-313514,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2031-11-24,22364.06,0.1145,14391.87,Adimplente,False
+CTR-2025-442173,Novatrans,Ativo Financeiro de Contrato de Concessão,2034-09-22,28695.63,0.112,18014.76,Adimplente,False
+CTR-2025-367408,TSN,Ativo Financeiro de Contrato de Concessão,2033-01-30,21054.73,0.1,19076.7,Adimplente,False
+CTR-2025-090655,Brasnorte,Ativo Financeiro de Contrato de Concessão,2026-12-30,30568.27,0.0975,28320.36,Adimplente,False
+CTR-2025-253746,Brasnorte,Ativo Financeiro de Contrato de Concessão,2030-08-01,23062.0,0.0724,22208.85,Adimplente,False
+CTR-2025-490827,ATE III,Ativo Financeiro de Contrato de Concessão,2035-10-18,28444.03,0.0864,23969.77,Adimplente,False
+CTR-2025-468437,Novatrans,Ativo Financeiro de Contrato de Concessão,2035-04-21,19199.2,0.1025,14019.71,Adimplente,False
+CTR-2025-117350,TSN,Ativo Financeiro de Contrato de Concessão,2027-08-01,14087.51,0.1083,12258.03,Adimplente,False
+CTR-2025-160678,Afluente T,Ativo Financeiro de Contrato de Concessão,2028-07-14,21623.45,0.1141,14332.16,Adimplente,False
+CTR-2025-258606,SST,Ativo Financeiro de Contrato de Concessão,2030-09-09,25983.53,0.1047,19677.93,Adimplente,False
+CTR-2025-276752,TAESA - Matriz,Ativo Financeiro de Contrato de Concessão,2031-02-01,27988.92,0.0968,19154.63,Adimplente,False
+CTR-2025-027208,Brasnorte,Ativo Financeiro de Contrato de Concessão,2025-08-07,23690.66,0.0742,18944.95,Adimplente,False
+CTR-2025-217323,Mutum,Ativo Financeiro de Contrato de Concessão,2029-10-12,23512.96,0.1098,20216.66,Adimplente,False
+CTR-2025-059117,San Rondon,Ativo Financeiro de Contrato de Concessão,2026-04-20,53171.75,0.1133,39064.13,Adimplente,False
+CTR-2025-417453,TSN,Ativo Financeiro de Contrato de Concessão,2034-03-07,17185.8,0.1033,12518.76,Adimplente,False
+CTR-2025-134931,TSN,Ativo Financeiro de Contrato de Concessão,2027-12-20,5409.09,0.0929,5322.34,Adimplente,False
+CTR-2025-160635,Afluente T,Ativo Financeiro de Contrato de Concessão,2028-07-14,41558.36,0.1006,36885.68,Adimplente,False
+CTR-2025-466060,TSN,Ativo Financeiro de Contrato de Concessão,2035-04-02,26219.27,0.0966,25096.05,Adimplente,False
+CTR-2025-279716,Novatrans,Ativo Financeiro de Contrato de Concessão,2031-02-25,33545.16,0.0853,29708.93,Adimplente,False
+CTR-2025-429639,ATE II,Ativo Financeiro de Contrato de Concessão,2034-06-13,64649.06,0.0859,53492.18,Adimplente,False
+CTR-2025-374802,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2033-03-30,7209.2,0.0787,6073.87,Adimplente,False
+CTR-2025-487206,ETSE,Ativo Financeiro de Contrato de Concessão,2035-09-19,24560.31,0.0835,20230.24,Adimplente,False
+CTR-2025-323838,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2032-02-15,60987.81,0.115,46604.96,Adimplente,False
+CTR-2025-126090,ETSE,Ativo Financeiro de Contrato de Concessão,2027-10-10,13641.8,0.0717,13093.18,Adimplente,False
+CTR-2025-204504,ETSE,Ativo Financeiro de Contrato de Concessão,2029-07-01,31169.06,0.0908,21291.54,Adimplente,False
+CTR-2025-063532,Brasnorte,Ativo Financeiro de Contrato de Concessão,2026-05-26,31971.07,0.0612,30781.42,Adimplente,False
+CTR-2025-423990,ETSE,Ativo Financeiro de Contrato de Concessão,2034-04-29,36407.83,0.0877,28628.99,Adimplente,False
+CTR-2025-429313,Afluente T,Ativo Financeiro de Contrato de Concessão,2034-06-11,29608.84,0.0758,29203.55,Adimplente,False
+CTR-2025-231950,Mutum,Ativo Financeiro de Contrato de Concessão,2030-02-07,28180.67,0.0949,26181.51,Adimplente,False
+CTR-2025-297534,ATE III,Ativo Financeiro de Contrato de Concessão,2031-07-18,35473.62,0.0882,31608.56,Adimplente,False
+CTR-2025-436562,ETSE,Ativo Financeiro de Contrato de Concessão,2034-08-08,28173.83,0.1067,23209.06,Adimplente,False
+CTR-2025-093561,TSN,Ativo Financeiro de Contrato de Concessão,2027-01-22,51600.88,0.1119,33642.97,Adimplente,False
+CTR-2025-210849,San Rondon,Ativo Financeiro de Contrato de Concessão,2029-08-21,17288.98,0.0673,13186.78,Adimplente,False
+CTR-2025-107268,ATE II,Ativo Financeiro de Contrato de Concessão,2027-05-12,34248.1,0.0761,26737.2,Adimplente,False
+CTR-2025-210789,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2029-08-21,20998.71,0.108,14024.77,Adimplente,False
+CTR-2025-340872,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2032-06-30,29942.21,0.0761,26590.62,Adimplente,False
+CTR-2025-052587,Afluente T,Ativo Financeiro de Contrato de Concessão,2026-02-27,8676.36,0.1108,7632.24,Adimplente,False
+CTR-2025-486869,TSN,Ativo Financeiro de Contrato de Concessão,2035-09-16,19609.71,0.0999,15798.49,Adimplente,False
+CTR-2025-066111,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2026-06-15,25747.32,0.1019,20053.8,Adimplente,False
+CTR-2025-200865,Novatrans,Ativo Financeiro de Contrato de Concessão,2029-06-02,3990.01,0.0774,2987.43,Adimplente,False
+CTR-2025-156007,ATE I,Ativo Financeiro de Contrato de Concessão,2028-06-07,37397.68,0.1093,22893.18,Adimplente,False
+CTR-2025-317418,Novatrans,Ativo Financeiro de Contrato de Concessão,2031-12-25,67647.63,0.0905,62578.69,Adimplente,False
+CTR-2025-437282,Afluente T,Ativo Financeiro de Contrato de Concessão,2034-08-14,19676.01,0.0622,15160.17,Adimplente,False
+CTR-2025-421025,Afluente T,Ativo Financeiro de Contrato de Concessão,2034-04-05,4077.85,0.0767,4003.78,Adimplente,False
+CTR-2025-062924,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2026-05-21,10683.56,0.0692,7779.67,Adimplente,False
+CTR-2025-095076,ETSE,Ativo Financeiro de Contrato de Concessão,2027-02-03,77250.76,0.0655,67651.69,Adimplente,False
+CTR-2025-134515,ATE I,Ativo Financeiro de Contrato de Concessão,2027-12-17,36624.51,0.091,30462.03,Adimplente,False
+CTR-2025-497947,ATE I,Ativo Financeiro de Contrato de Concessão,2035-12-14,7436.06,0.0645,6727.2,Adimplente,False
+CTR-2025-291564,Brasnorte,Ativo Financeiro de Contrato de Concessão,2031-05-31,41797.99,0.0709,29970.75,Adimplente,False
+CTR-2025-124458,Brasnorte,Ativo Financeiro de Contrato de Concessão,2027-09-27,7562.63,0.0994,5248.24,Adimplente,False
+CTR-2025-410178,ETSE,Ativo Financeiro de Contrato de Concessão,2034-01-08,3886.44,0.0644,3049.05,Adimplente,False
+CTR-2025-062151,TSN,Ativo Financeiro de Contrato de Concessão,2026-05-15,13263.98,0.1152,8236.4,Adimplente,False
+CTR-2025-222403,ATE III,Ativo Financeiro de Contrato de Concessão,2029-11-22,20933.24,0.089,15095.03,Adimplente,False
+CTR-2025-248267,TSN,Ativo Financeiro de Contrato de Concessão,2030-06-18,94186.37,0.0749,90488.15,Adimplente,False
+CTR-2025-139253,ATE I,Ativo Financeiro de Contrato de Concessão,2028-01-24,101107.35,0.0808,90605.21,Adimplente,False
+CTR-2025-409311,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2034-01-01,30727.58,0.0984,21533.18,Adimplente,False
+CTR-2025-144460,ATE I,Ativo Financeiro de Contrato de Concessão,2028-03-06,76190.29,0.0836,66034.23,Adimplente,False
+CTR-2025-033109,ETSE,Ativo Financeiro de Contrato de Concessão,2025-09-23,4085.31,0.1154,2461.75,Adimplente,False
+CTR-2025-302353,ATE III,Ativo Financeiro de Contrato de Concessão,2031-08-26,8494.11,0.0928,7441.01,Adimplente,False
+CTR-2025-012710,Mutum,Ativo Financeiro de Contrato de Concessão,2025-04-13,85912.15,0.1126,51307.19,Adimplente,False
+CTR-2025-343400,TSN,Ativo Financeiro de Contrato de Concessão,2032-07-21,54100.31,0.1056,38939.67,Adimplente,False
+CTR-2025-485798,Afluente T,Ativo Financeiro de Contrato de Concessão,2035-09-07,27892.82,0.1058,20361.04,Adimplente,False
+CTR-2025-125419,Mutum,Ativo Financeiro de Contrato de Concessão,2027-10-05,57205.07,0.064,51933.8,Adimplente,False
+CTR-2025-444951,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2034-10-14,14820.94,0.116,8948.93,Adimplente,False
+CTR-2025-410812,ATE III,Ativo Financeiro de Contrato de Concessão,2034-01-13,19561.41,0.0878,13783.22,Adimplente,False
+CTR-2025-277324,Brasnorte,Ativo Financeiro de Contrato de Concessão,2031-02-06,34932.6,0.0801,24517.02,Adimplente,False
+CTR-2025-234649,TSN,Ativo Financeiro de Contrato de Concessão,2030-02-28,4271.83,0.0678,3927.45,Adimplente,False
+CTR-2025-106595,San Rondon,Ativo Financeiro de Contrato de Concessão,2027-05-07,15814.43,0.1014,11765.02,Adimplente,False
+CTR-2025-271150,SST,Ativo Financeiro de Contrato de Concessão,2030-12-18,11223.79,0.092,10527.63,Adimplente,False
+CTR-2025-270517,Afluente T,Ativo Financeiro de Contrato de Concessão,2030-12-13,6862.38,0.079,6779.87,Adimplente,False
+CTR-2025-209806,SST,Ativo Financeiro de Contrato de Concessão,2029-08-13,20350.85,0.074,17268.22,Adimplente,False
+CTR-2025-472270,San Rondon,Ativo Financeiro de Contrato de Concessão,2035-05-22,42475.95,0.0831,30381.01,Adimplente,False
+CTR-2025-370083,Afluente T,Ativo Financeiro de Contrato de Concessão,2033-02-20,16368.66,0.1031,12495.22,Adimplente,False
+CTR-2025-038873,San Rondon,Ativo Financeiro de Contrato de Concessão,2025-11-09,4099.23,0.0754,3367.29,Adimplente,False
+CTR-2025-220183,ATE I,Ativo Financeiro de Contrato de Concessão,2029-11-04,23984.95,0.1032,17413.41,Adimplente,False
+CTR-2025-436322,ETSE,Ativo Financeiro de Contrato de Concessão,2034-08-06,59467.1,0.1115,58419.78,Adimplente,False
+CTR-2025-460784,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2035-02-19,6845.24,0.07,5271.52,Adimplente,False
+CTR-2025-044632,Novatrans,Ativo Financeiro de Contrato de Concessão,2025-12-25,27859.51,0.0767,19553.07,Adimplente,False
+CTR-2025-315249,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2031-12-08,75210.16,0.1038,63355.95,Adimplente,False
+CTR-2025-089947,TSN,Ativo Financeiro de Contrato de Concessão,2026-12-24,30779.12,0.0739,26740.39,Adimplente,False
+CTR-2025-471554,Novatrans,Ativo Financeiro de Contrato de Concessão,2035-05-16,30761.55,0.0647,26725.45,Adimplente,False
+CTR-2025-059945,Brasnorte,Ativo Financeiro de Contrato de Concessão,2026-04-27,23242.29,0.0646,21336.04,Adimplente,False
+CTR-2025-175641,TSN,Ativo Financeiro de Contrato de Concessão,2028-11-11,55873.71,0.0978,39450.48,Adimplente,False
+CTR-2025-218275,ATE III,Ativo Financeiro de Contrato de Concessão,2029-10-20,19440.69,0.1007,18571.49,Adimplente,False
+CTR-2025-307282,Novatrans,Ativo Financeiro de Contrato de Concessão,2031-10-05,111361.32,0.067,85661.01,Adimplente,False
+CTR-2025-463628,Mutum,Ativo Financeiro de Contrato de Concessão,2035-03-13,19506.17,0.0892,14292.45,Adimplente,False
+CTR-2025-463265,Mutum,Ativo Financeiro de Contrato de Concessão,2035-03-10,24267.71,0.0976,19775.19,Adimplente,False
+CTR-2025-347032,ETSE,Ativo Financeiro de Contrato de Concessão,2032-08-19,38674.22,0.0986,37293.45,Adimplente,False
+CTR-2025-131700,TAESA - Matriz,Ativo Financeiro de Contrato de Concessão,2027-11-24,32164.73,0.0758,30226.99,Adimplente,False
+CTR-2025-071862,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2026-08-01,29677.71,0.0913,23458.6,Adimplente,False
+CTR-2025-217469,San Rondon,Ativo Financeiro de Contrato de Concessão,2029-10-13,17755.3,0.0617,14468.3,Adimplente,False
+CTR-2025-119978,San Rondon,Ativo Financeiro de Contrato de Concessão,2027-08-22,20634.25,0.0877,17018.44,Adimplente,False
+CTR-2025-272327,SST,Ativo Financeiro de Contrato de Concessão,2030-12-28,54875.32,0.0657,40237.07,Adimplente,False
+CTR-2025-387017,Mutum,Ativo Financeiro de Contrato de Concessão,2033-07-06,32361.9,0.0655,28847.9,Adimplente,False
+CTR-2025-126841,TSN,Ativo Financeiro de Contrato de Concessão,2027-10-16,22222.43,0.0674,17362.48,Adimplente,False
+CTR-2025-275900,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2031-01-26,43955.23,0.115,37601.79,Adimplente,False
+CTR-2025-496352,TSN,Ativo Financeiro de Contrato de Concessão,2035-12-01,31307.96,0.1084,26991.11,Adimplente,False
+CTR-2025-184543,Mutum,Ativo Financeiro de Contrato de Concessão,2029-01-22,46871.99,0.0824,36468.68,Adimplente,False
+CTR-2025-174404,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2028-11-01,32914.16,0.0991,24313.3,Adimplente,False
+CTR-2025-131632,ATE I,Ativo Financeiro de Contrato de Concessão,2027-11-24,31397.71,0.0875,25297.26,Adimplente,False
+CTR-2025-420704,Novatrans,Ativo Financeiro de Contrato de Concessão,2034-04-03,13488.45,0.0757,9579.55,Adimplente,False
+CTR-2025-035966,SST,Ativo Financeiro de Contrato de Concessão,2025-10-16,36061.07,0.116,21511.36,Adimplente,False
+CTR-2025-493799,SST,Ativo Financeiro de Contrato de Concessão,2035-11-11,43897.09,0.1074,41191.44,Adimplente,False
+CTR-2025-110382,Mutum,Ativo Financeiro de Contrato de Concessão,2027-06-06,16378.08,0.0867,12041.3,Adimplente,False
+CTR-2025-442726,Afluente T,Ativo Financeiro de Contrato de Concessão,2034-09-26,17340.76,0.0902,11744.04,Adimplente,False
+CTR-2025-484595,San Rondon,Ativo Financeiro de Contrato de Concessão,2035-08-29,16228.67,0.1024,13089.37,Adimplente,False
+CTR-2025-235048,ATE II,Ativo Financeiro de Contrato de Concessão,2030-03-03,31261.99,0.0649,26757.64,Adimplente,False
+CTR-2025-016090,Afluente T,Ativo Financeiro de Contrato de Concessão,2025-05-10,27923.12,0.1072,19718.97,Adimplente,False
+CTR-2025-208846,TSN,Ativo Financeiro de Contrato de Concessão,2029-08-05,24166.12,0.1111,20586.14,Adimplente,False
+CTR-2025-038151,Afluente T,Ativo Financeiro de Contrato de Concessão,2025-11-03,31328.34,0.0704,30080.66,Adimplente,False
+CTR-2025-372126,Afluente T,Ativo Financeiro de Contrato de Concessão,2033-03-08,27988.87,0.0671,23386.91,Adimplente,False
+CTR-2025-218594,ATE II,Ativo Financeiro de Contrato de Concessão,2029-10-22,23540.07,0.0631,18834.23,Adimplente,False
+CTR-2025-255342,San Rondon,Ativo Financeiro de Contrato de Concessão,2030-08-13,42692.07,0.0895,40626.94,Adimplente,False
+CTR-2025-200070,Novatrans,Ativo Financeiro de Contrato de Concessão,2029-05-26,63615.09,0.1196,38127.31,Adimplente,False
+CTR-2025-156166,TSN,Ativo Financeiro de Contrato de Concessão,2028-06-08,9692.39,0.0657,7513.91,Adimplente,False
+CTR-2025-430584,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2034-06-21,22137.09,0.096,15081.71,Adimplente,False
+CTR-2025-347245,ATE I,Ativo Financeiro de Contrato de Concessão,2032-08-21,5092.93,0.0782,4199.79,Adimplente,False
+CTR-2025-360871,Brasnorte,Ativo Financeiro de Contrato de Concessão,2032-12-08,26597.69,0.12,15216.31,Adimplente,False
+CTR-2025-297158,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2031-07-15,19711.49,0.1098,16992.19,Adimplente,False
+CTR-2025-467185,TSN,Ativo Financeiro de Contrato de Concessão,2035-04-11,16746.5,0.1121,14653.84,Adimplente,False
+CTR-2025-289015,Mutum,Ativo Financeiro de Contrato de Concessão,2031-05-11,23951.21,0.0882,23070.94,Adimplente,False
+CTR-2025-078895,Brasnorte,Ativo Financeiro de Contrato de Concessão,2026-09-26,11892.39,0.0896,10891.5,Adimplente,False
+CTR-2025-184710,TAESA - Matriz,Ativo Financeiro de Contrato de Concessão,2029-01-23,45480.87,0.0722,32203.6,Adimplente,False
+CTR-2025-192984,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2029-03-31,32784.59,0.0642,26815.79,Adimplente,False
+CTR-2025-146303,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2028-03-21,19160.58,0.064,18471.44,Adimplente,False
+CTR-2025-050478,ATE III,Ativo Financeiro de Contrato de Concessão,2026-02-10,7004.04,0.0602,6334.97,Adimplente,False
+CTR-2025-184687,San Rondon,Ativo Financeiro de Contrato de Concessão,2029-01-23,30093.83,0.1134,20596.71,Adimplente,False
+CTR-2025-195407,TAESA - Matriz,Ativo Financeiro de Contrato de Concessão,2029-04-19,55358.95,0.0948,38071.98,Adimplente,False
+CTR-2025-272684,ATE II,Ativo Financeiro de Contrato de Concessão,2030-12-31,47910.47,0.0743,40468.61,Adimplente,False
+CTR-2025-386259,Mutum,Ativo Financeiro de Contrato de Concessão,2033-06-30,17484.95,0.1062,16625.97,Adimplente,False
+CTR-2025-192050,Novatrans,Ativo Financeiro de Contrato de Concessão,2029-03-23,49494.16,0.1194,29297.99,Adimplente,False
+CTR-2025-011724,San Rondon,Ativo Financeiro de Contrato de Concessão,2025-04-05,44861.36,0.064,33840.69,Adimplente,False
+CTR-2025-366302,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2033-01-21,22778.14,0.1001,19752.62,Adimplente,False
+CTR-2025-295241,TAESA - Matriz,Ativo Financeiro de Contrato de Concessão,2031-06-30,34872.73,0.0732,30861.35,Adimplente,False
+CTR-2025-156159,ATE III,Ativo Financeiro de Contrato de Concessão,2028-06-08,63183.28,0.1165,62079.94,Adimplente,False
+CTR-2025-330374,Novatrans,Ativo Financeiro de Contrato de Concessão,2032-04-07,80552.16,0.0843,54743.29,Adimplente,False
+CTR-2025-166166,ATE II,Ativo Financeiro de Contrato de Concessão,2028-08-27,29435.06,0.1147,18792.15,Adimplente,False
+CTR-2025-377247,ATE III,Ativo Financeiro de Contrato de Concessão,2033-04-19,21306.81,0.0864,18383.46,Adimplente,False
+CTR-2025-159102,TSN,Ativo Financeiro de Contrato de Concessão,2028-07-01,4668.64,0.1197,2827.88,Adimplente,False
+CTR-2025-405165,Novatrans,Ativo Financeiro de Contrato de Concessão,2033-11-29,38672.03,0.0942,34468.68,Adimplente,False
+CTR-2025-415137,TSN,Ativo Financeiro de Contrato de Concessão,2034-02-17,13367.3,0.0748,9985.31,Adimplente,False
+CTR-2025-399914,San Rondon,Ativo Financeiro de Contrato de Concessão,2033-10-18,47180.35,0.0901,39791.77,Adimplente,False
+CTR-2025-148884,ATE II,Ativo Financeiro de Contrato de Concessão,2028-04-10,29983.92,0.1112,19913.57,Adimplente,False
+CTR-2025-334921,Mutum,Ativo Financeiro de Contrato de Concessão,2032-05-14,10185.04,0.0952,9577.13,Adimplente,False
+CTR-2025-333492,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2032-05-02,5849.42,0.0959,4447.34,Adimplente,False
+CTR-2025-278053,TSN,Ativo Financeiro de Contrato de Concessão,2031-02-12,11439.72,0.0654,8405.34,Adimplente,False
+CTR-2025-308067,TSN,Ativo Financeiro de Contrato de Concessão,2031-10-11,31032.82,0.0851,29418.92,Adimplente,False
+CTR-2025-493289,TSN,Ativo Financeiro de Contrato de Concessão,2035-11-07,53622.16,0.1011,45412.68,Adimplente,False
+CTR-2025-088592,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2026-12-13,68348.51,0.0757,57523.57,Adimplente,False
+CTR-2025-364850,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2033-01-09,25937.5,0.0779,24208.22,Adimplente,False
+CTR-2025-424845,ATE III,Ativo Financeiro de Contrato de Concessão,2034-05-06,21583.68,0.0655,19136.51,Adimplente,False
+CTR-2025-480839,ATE I,Ativo Financeiro de Contrato de Concessão,2035-07-30,12290.26,0.0715,11780.21,Adimplente,False
+CTR-2025-356212,ATE II,Ativo Financeiro de Contrato de Concessão,2032-11-01,36696.43,0.0613,32127.95,Adimplente,False
+CTR-2025-237606,ETSE,Ativo Financeiro de Contrato de Concessão,2030-03-24,11136.42,0.0789,9285.41,Adimplente,False
+CTR-2025-204922,SST,Ativo Financeiro de Contrato de Concessão,2029-07-04,39495.1,0.0779,38250.6,Adimplente,False
+CTR-2025-485729,Brasnorte,Ativo Financeiro de Contrato de Concessão,2035-09-07,39468.24,0.1056,32303.16,Adimplente,False
+CTR-2025-120033,TAESA - Matriz,Ativo Financeiro de Contrato de Concessão,2027-08-23,34229.99,0.0867,27707.93,Adimplente,False
+CTR-2025-147845,TSN,Ativo Financeiro de Contrato de Concessão,2028-04-02,13798.46,0.0973,12161.22,Adimplente,False
+CTR-2025-101091,TSN,Ativo Financeiro de Contrato de Concessão,2027-03-23,37627.33,0.1091,30629.25,Adimplente,False
+CTR-2025-090640,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2026-12-30,68502.96,0.116,59483.26,Adimplente,False
+CTR-2025-113839,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2027-07-04,49573.27,0.1057,41549.28,Adimplente,False
+CTR-2025-071306,ETSE,Ativo Financeiro de Contrato de Concessão,2026-07-27,16817.06,0.0718,14652.02,Adimplente,False
+CTR-2025-185535,Novatrans,Ativo Financeiro de Contrato de Concessão,2029-01-30,25751.28,0.1052,25025.46,Adimplente,False
+CTR-2025-196703,Brasnorte,Ativo Financeiro de Contrato de Concessão,2029-04-29,42993.64,0.1045,30439.69,Adimplente,False
+CTR-2025-066620,ATE I,Ativo Financeiro de Contrato de Concessão,2026-06-20,15856.19,0.061,13112.46,Adimplente,False
+CTR-2025-447797,Novatrans,Ativo Financeiro de Contrato de Concessão,2034-11-06,11151.33,0.1118,9476.25,Adimplente,False
+CTR-2025-043731,Novatrans,Ativo Financeiro de Contrato de Concessão,2025-12-18,15205.49,0.116,12989.79,Adimplente,False
+CTR-2025-024511,Novatrans,Ativo Financeiro de Contrato de Concessão,2025-07-16,13428.94,0.0955,9424.83,Adimplente,False
+CTR-2025-376058,ETSE,Ativo Financeiro de Contrato de Concessão,2033-04-09,2986.93,0.0696,2750.63,Adimplente,False
+CTR-2025-059172,SST,Ativo Financeiro de Contrato de Concessão,2026-04-21,22978.09,0.1061,17286.6,Adimplente,False
+CTR-2025-144596,ATE I,Ativo Financeiro de Contrato de Concessão,2028-03-07,46326.58,0.1029,28887.03,Adimplente,False
+CTR-2025-111938,ATE II,Ativo Financeiro de Contrato de Concessão,2027-06-19,31582.58,0.0851,21795.74,Adimplente,False
+CTR-2025-222867,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2029-11-26,14005.34,0.0939,9507.78,Adimplente,False
+CTR-2025-128693,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2027-10-31,21767.02,0.1131,17308.86,Adimplente,False
+CTR-2025-135685,ETSE,Ativo Financeiro de Contrato de Concessão,2027-12-26,47353.63,0.0689,37257.94,Adimplente,False
+CTR-2025-463525,TAESA - Matriz,Ativo Financeiro de Contrato de Concessão,2035-03-13,64646.49,0.105,42690.02,Adimplente,False
+CTR-2025-284474,ATE I,Ativo Financeiro de Contrato de Concessão,2031-04-04,11608.85,0.0649,9573.75,Adimplente,False
+CTR-2025-498623,TAESA - Matriz,Ativo Financeiro de Contrato de Concessão,2035-12-19,43494.99,0.1182,27191.22,Adimplente,False
+CTR-2025-177294,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2028-11-25,12147.2,0.1196,7817.09,Adimplente,False
+CTR-2025-291292,TSN,Ativo Financeiro de Contrato de Concessão,2031-05-29,47101.03,0.0608,44505.53,Adimplente,False
+CTR-2025-457602,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2035-01-24,37626.16,0.0841,35482.41,Adimplente,False
+CTR-2025-052614,ETSE,Ativo Financeiro de Contrato de Concessão,2026-02-27,26264.99,0.0883,17826.45,Adimplente,False
+CTR-2025-368784,San Rondon,Ativo Financeiro de Contrato de Concessão,2033-02-10,19064.72,0.0619,17817.72,Adimplente,False
+CTR-2025-265350,ATE I,Ativo Financeiro de Contrato de Concessão,2030-11-02,37196.05,0.0769,33126.95,Adimplente,False
+CTR-2025-187673,Afluente T,Ativo Financeiro de Contrato de Concessão,2029-02-16,37029.25,0.08,25829.82,Adimplente,False
+CTR-2025-129037,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2027-11-03,49658.49,0.106,31658.75,Adimplente,False
+CTR-2025-180175,ATE I,Ativo Financeiro de Contrato de Concessão,2028-12-18,41161.84,0.0875,40088.95,Adimplente,False
+CTR-2025-437486,Afluente T,Ativo Financeiro de Contrato de Concessão,2034-08-15,18807.97,0.0769,15314.83,Adimplente,False
+CTR-2025-164767,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2028-08-16,13262.7,0.1132,8969.63,Adimplente,False
+CTR-2025-101047,Mutum,Ativo Financeiro de Contrato de Concessão,2027-03-23,25663.37,0.0857,17520.27,Adimplente,False
+CTR-2025-169366,SST,Ativo Financeiro de Contrato de Concessão,2028-09-22,35959.51,0.117,30922.73,Adimplente,False
+CTR-2025-211253,Brasnorte,Ativo Financeiro de Contrato de Concessão,2029-08-24,26291.44,0.0861,21271.31,Adimplente,False
+CTR-2025-088710,TSN,Ativo Financeiro de Contrato de Concessão,2026-12-14,25534.66,0.0634,21787.07,Adimplente,False
+CTR-2025-002142,Mutum,Ativo Financeiro de Contrato de Concessão,2025-01-18,33517.1,0.0926,23932.5,Adimplente,False
+CTR-2025-385837,Novatrans,Ativo Financeiro de Contrato de Concessão,2033-06-27,7564.17,0.072,5483.17,Adimplente,False
+CTR-2025-292873,Novatrans,Ativo Financeiro de Contrato de Concessão,2031-06-11,35089.07,0.0895,26188.46,Adimplente,False
+CTR-2025-348057,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2032-08-27,25436.61,0.0822,19395.54,Adimplente,False
+CTR-2025-434443,Mutum,Ativo Financeiro de Contrato de Concessão,2034-07-22,26127.94,0.0827,23499.5,Adimplente,False
+CTR-2025-299136,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2031-07-31,24195.01,0.0917,23800.55,Adimplente,False
+CTR-2025-119108,ATE I,Ativo Financeiro de Contrato de Concessão,2027-08-15,21966.9,0.086,17490.34,Adimplente,False
+CTR-2025-068655,Mutum,Ativo Financeiro de Contrato de Concessão,2026-07-06,9665.31,0.0625,8483.06,Adimplente,False
+CTR-2025-331090,Novatrans,Ativo Financeiro de Contrato de Concessão,2032-04-13,23276.69,0.0949,16526.59,Adimplente,False
+CTR-2025-476853,Brasnorte,Ativo Financeiro de Contrato de Concessão,2035-06-28,14317.46,0.0826,12867.52,Adimplente,False
+CTR-2025-253291,TAESA - Matriz,Ativo Financeiro de Contrato de Concessão,2030-07-28,22814.05,0.1038,20938.49,Adimplente,False
+CTR-2025-403162,San Rondon,Ativo Financeiro de Contrato de Concessão,2033-11-13,51906.7,0.118,50180.11,Adimplente,False
+CTR-2025-015340,ATE II,Ativo Financeiro de Contrato de Concessão,2025-05-04,9377.06,0.0954,7261.96,Adimplente,False
+CTR-2025-255095,TSN,Ativo Financeiro de Contrato de Concessão,2030-08-11,60006.33,0.0729,46506.88,Adimplente,False
+CTR-2025-187002,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2029-02-10,20056.87,0.0615,18831.46,Adimplente,False
+CTR-2025-146949,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2028-03-26,10517.96,0.069,9121.84,Adimplente,False
+CTR-2025-306124,ATE III,Ativo Financeiro de Contrato de Concessão,2031-09-25,60285.34,0.1011,49248.8,Adimplente,False
+CTR-2025-435486,San Rondon,Ativo Financeiro de Contrato de Concessão,2034-07-30,24264.61,0.0676,20212.64,Adimplente,False
+CTR-2025-353804,SST,Ativo Financeiro de Contrato de Concessão,2032-10-12,7022.42,0.111,4685.22,Adimplente,False
+CTR-2025-458015,ATE I,Ativo Financeiro de Contrato de Concessão,2035-01-27,26920.55,0.1071,16382.62,Adimplente,False
+CTR-2025-174311,TSN,Ativo Financeiro de Contrato de Concessão,2028-11-01,17232.43,0.0994,15724.99,Adimplente,False
+CTR-2025-041775,SST,Ativo Financeiro de Contrato de Concessão,2025-12-02,12059.08,0.0653,9132.41,Adimplente,False
+CTR-2025-441164,ETSE,Ativo Financeiro de Contrato de Concessão,2034-09-14,10948.33,0.0974,8765.81,Adimplente,False
+CTR-2025-439218,TSN,Ativo Financeiro de Contrato de Concessão,2034-08-29,12521.53,0.0835,10047.02,Adimplente,False
+CTR-2025-168564,ETSE,Ativo Financeiro de Contrato de Concessão,2028-09-15,95557.15,0.0803,70636.47,Adimplente,False
+CTR-2025-174037,Pico do Itabira,Ativo Financeiro de Contrato de Concessão,2028-10-29,5714.24,0.1175,5425.1,Adimplente,False
+CTR-2025-146011,Mutum,Ativo Financeiro de Contrato de Concessão,2028-03-18,86381.67,0.0672,79066.08,Adimplente,False
+CTR-2025-195056,TAESA - Matriz,Ativo Financeiro de Contrato de Concessão,2029-04-16,86866.1,0.0855,74702.76,Adimplente,False
+CTR-2025-313529,ETSE,Ativo Financeiro de Contrato de Concessão,2031-11-24,45758.72,0.0839,39702.0,Adimplente,False
+CTR-2025-238141,Afluente T,Ativo Financeiro de Contrato de Concessão,2030-03-28,21398.64,0.1162,16304.8,Adimplente,False
+CTR-2025-352585,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2032-10-02,53015.43,0.1129,33140.5,Adimplente,False
+CTR-2025-434397,ATE III,Ativo Financeiro de Contrato de Concessão,2034-07-22,17643.43,0.0755,13329.13,Adimplente,False
+CTR-2025-044483,Lagoa Nova,Ativo Financeiro de Contrato de Concessão,2025-12-24,35132.79,0.0772,24959.08,Adimplente,False
+CTR-2025-196508,Mutum,Ativo Financeiro de Contrato de Concessão,2029-04-28,48562.74,0.111,30351.66,Adimplente,False
+CTR-2025-355655,San Rondon,Ativo Financeiro de Contrato de Concessão,2032-10-27,20337.96,0.0865,14360.51,Adimplente,False
+CTR-2025-029842,TAESA - Matriz,Ativo Financeiro de Contrato de Concessão,2025-08-28,30705.12,0.0889,23496.72,Adimplente,False
+CTR-2025-304029,TSN,Ativo Financeiro de Contrato de Concessão,2031-09-08,6096.93,0.0813,5388.27,Adimplente,False
+CTR-2025-456905,Afluente T,Ativo Financeiro de Contrato de Concessão,2035-01-18,36832.57,0.0661,33301.04,Adimplente,False
+CTR-2025-346817,ETSE,Ativo Financeiro de Contrato de Concessão,2032-08-17,29208.85,0.1129,19412.85,Adimplente,False
+CTR-2025-479174,Afluente T,Ativo Financeiro de Contrato de Concessão,2035-07-16,8377.96,0.1194,4967.49,Adimplente,False
+CTR-2025-098948,ATE III,Ativo Financeiro de Contrato de Concessão,2027-03-06,32436.71,0.1018,22007.81,Adimplente,False
+CTR-2025-482917,ATE III,Ativo Financeiro de Contrato de Concessão,2035-08-15,12235.31,0.0664,10140.58,Adimplente,False
+CTR-2025-379059,TSN,Ativo Financeiro de Contrato de Concessão,2033-05-03,7769.37,0.112,6907.28,Adimplente,False
+CTR-2025-088175,Brasnorte,Ativo Financeiro de Contrato de Concessão,2026-12-10,24755.02,0.0853,24361.3,Adimplente,False
+CTR-2025-269765,Novatrans,Ativo Financeiro de Contrato de Concessão,2030-12-07,50904.87,0.1073,33706.11,Adimplente,False
+CTR-2025-101284,Brasnorte,Ativo Financeiro de Contrato de Concessão,2027-03-25,80570.49,0.0922,64500.15,Adimplente,False
+CTR-2025-450987,TSN,Ativo Financeiro de Contrato de Concessão,2034-12-02,20085.46,0.0807,16357.98,Adimplente,False
+CTR-2025-424543,ATE I,Ativo Financeiro de Contrato de Concessão,2034-05-03,21317.15,0.0859,20324.29,Adimplente,False
+CTR-2025-041902,TSN,Ativo Financeiro de Contrato de Concessão,2025-12-03,10713.3,0.0989,7740.79,Adimplente,False
+CTR-2025-081780,Afluente T,Ativo Financeiro de Contrato de Concessão,2026-10-19,30232.7,0.1101,19361.58,Adimplente,False
+CTR-2025-153262,ATE I,Ativo Financeiro de Contrato de Concessão,2028-05-15,8761.1,0.1121,7449.14,Adimplente,False
+CTR-2025-316778,ATE II,Ativo Financeiro de Contrato de Concessão,2031-12-20,24184.15,0.0689,21379.02,Adimplente,False
+CTR-2025-234379,SST,Ativo Financeiro de Contrato de Concessão,2030-02-26,35400.09,0.1052,23924.66,Adimplente,False
+CTR-2025-226524,San Rondon,Ativo Financeiro de Contrato de Concessão,2029-12-25,40554.47,0.0874,30641.96,Adimplente,False
+CTR-2025-334046,TSN,Ativo Financeiro de Contrato de Concessão,2032-05-07,9843.39,0.0828,6859.99,Adimplente,False
+CTR-2025-060070,Novatrans,Ativo Financeiro de Contrato de Concessão,2026-04-28,4491.21,0.0617,3702.88,Adimplente,False
+CTR-2025-066358,Afluente T,Ativo Financeiro de Contrato de Concessão,2026-06-17,14508.8,0.0955,9437.74,Adimplente,False
+CTR-2025-415638,TSN,Ativo Financeiro de Contrato de Concessão,2034-02-21,33434.73,0.0886,23650.81,Adimplente,False
+CTR-2025-344079,ATE I,Ativo Financeiro de Contrato de Concessão,2032-07-26,68774.25,0.0873,61357.71,Adimplente,False
+CTR-2025-103174,TSN,Ativo Financeiro de Contrato de Concessão,2027-04-09,5976.68,0.1072,4897.08,Adimplente,False
+CTR-2025-414409,Brasnorte,Ativo Financeiro de Contrato de Concessão,2034-02-11,23494.16,0.0982,16453.0,Adimplente,False
+CTR-2025-262504,Afluente T,Ativo Financeiro de Contrato de Concessão,2030-10-10,38936.05,0.0891,36847.11,Adimplente,False
+CTR-2025-339160,ATE I,Ativo Financeiro de Contrato de Concessão,2032-06-17,26951.7,0.1027,18957.7,Adimplente,False

@@ -47,9 +47,3 @@ A soma de `valor_presente_contabil_brl` é **R$ 12,582,984,987.38**, enquanto o 
 
 ## Nota sobre materialidade
 A materialidade usada no dossiê é uma premissa acadêmica provisória: 5% do saldo consolidado de ativo de contrato de concessão para materialidade global e 75% desse valor para materialidade de execução. Ela não substitui julgamento profissional, nem uma análise das necessidades dos usuários e de outras bases possíveis.
-
-## Antes de entregar
-- Confira se a matrícula `241038826` está correta antes da publicação.
-- Confirme com o professor se aceita a conciliação não alcançada, que está exposta sem ajustes artificiais.
-- Revise o alinhamento entre a conta da base e a nomenclatura contábil oficial.
-- Não declare como executadas confirmações, entrevistas, inspeções físicas ou testes em sistemas internos.
